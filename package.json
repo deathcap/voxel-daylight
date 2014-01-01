@@ -1,7 +1,7 @@
 {
   "name": "voxel-daylight",
   "description": "daytime lighting (voxel.js plugin)",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "repository": {
     "type": "git",
     "url": "git@github.com:deathcap/voxel-daylight.git"
@@ -10,8 +10,7 @@
     "voxel",
     "lighting"
   ],
-  "dependencies": {
-  },
+  "dependencies": {},
   "peerDependencies": {
     "voxel-engine": ">=0.19.0",
     "voxel-plugins": ">=0.1.0"
